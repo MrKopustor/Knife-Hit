@@ -16,4 +16,4 @@ Open the game folder, AnotherKnifeHit-Unity3D, in Unity and try the game in the 
 
 ## License
 
-[MIT © Rabukhin Ruslan
+[MIT © Rabukhin Ruslan.](https://www.linkedin.com/in/ruslan-rabukhin/)
