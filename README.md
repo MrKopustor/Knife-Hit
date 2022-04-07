@@ -2,7 +2,7 @@
  
 > C# Game Development in Unity®
 
-https://user-images.githubusercontent.com/90797620/162158393-03393ee6-72fa-42cf-bc41-698b307dda62.mp4
+![video_2022-04-07_11-55-14](https://user-images.githubusercontent.com/90797620/162168376-b6469eec-1eba-4eb5-a818-8a129ac2a006.gif)
 
 > Version 1.1.0
 
