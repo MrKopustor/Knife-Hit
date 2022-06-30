@@ -147,6 +147,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1747666c932a9054c84324bfc186154a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  hitSound: {fileID: 8300000, guid: 444079c66b83d6d4abad56c1be9154e4, type: 3}
+  fail: {fileID: 8300000, guid: 8cb826fb9630067479a432ddc1e745a7, type: 3}
   throwForce: {x: 0, y: 40}
 --- !u!198 &751678594142466530
 ParticleSystem:
