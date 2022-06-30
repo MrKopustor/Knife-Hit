@@ -1,4 +1,4 @@
-# Knife Hit Beta
+# Knife Hit
  
 > C# Game Development in Unity®
 
